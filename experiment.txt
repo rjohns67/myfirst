@@ -8,4 +8,4 @@ blah blah blah
 
 editing myfirst
 
-adding a line in the original copy
+keep the added line in the original copy
